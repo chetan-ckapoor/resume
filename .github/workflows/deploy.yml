@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - claude/resume-landing-page-oFvLt
 
 permissions:
   contents: read
